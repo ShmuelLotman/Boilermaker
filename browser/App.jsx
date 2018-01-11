@@ -5,7 +5,7 @@ import store from './redux/store';
 import '../public/index.css'
 ReactDOM.render(
   <Provider store={store}>
-    <h1> Hello, it's the new React Boilermaker Template. Go Wild!</h1>
+    <h1> Hello, it's the newest React Boilermaker Template. Go Wild!</h1>
   </Provider>,
   document.getElementById('app')
 );
